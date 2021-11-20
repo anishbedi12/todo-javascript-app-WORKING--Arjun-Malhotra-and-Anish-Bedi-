@@ -1,0 +1,58 @@
+#head {
+    text-align: center;
+    margin-top: 3%;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+#everything {
+    text-align: center;
+    position: relative;
+    top: 15%;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: sans-serif;
+}
+
+#task {
+    border: 2px solid grey;
+    border-radius: 5px;
+    font-family: sans-serif;
+    height: 20px;
+}
+
+#adding {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#add {
+    position: relative;
+    border: 2px solid greenyellow;
+    background-color: rgb(47, 255, 82);
+    border-radius: 5px;
+    font-family: sans-serif;
+    height: 27px;
+}
+
+#add:hover {
+    background-color: rgb(17, 153, 17);
+}
+
+#task:hover {
+    background-color: lightslategray;
+}
+
+#things {
+    width: 100%;
+    font-size: 15px;
+    border: 1px blue;
+    position: absolute;
+    left: -5%;
+}
+
+/* ul {
+    display: flex;
+} */
+
